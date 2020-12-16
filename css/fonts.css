@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Vietnam-bold;
+    src: url("../font/BeVietnam-Bold.ttf");
+  }
+  
+  @font-face {
+    font-family: Vietnam-light;
+    src: url("../font/BeVietnam-Light.ttf");
+  }
+
+  @font-face {
+    font-family: Vietnam-medium;
+    src: url("../font/BeVietnam-Medium.ttf");
+  }
+  
+  @font-face {
+    font-family: Vietnam-semi;
+    src: url("../font/BeVietnam-SemiBold.ttf");
+  }
+  
+  
