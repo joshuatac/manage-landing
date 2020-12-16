@@ -66,9 +66,7 @@ p {
   font-size:0.9rem;
   position: relative;
 }
-.nav-link > a{
-  color: black;
-}
+
 .top-started{
   padding: 1.4rem ;
 }
@@ -451,7 +449,7 @@ font-size: 13px;
   width: 80%;
   background: hsl(9, 95%, 85%);
   margin-left: -20px;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .flex-row > button{
@@ -494,11 +492,11 @@ align-content: center;
 }
 
 .form-search{
-  width: 80%;
+  width: 70%;
 }
 
 .form-btn {
-  width: 10%;
+  width: 15%;
   padding: 10px;
   border-radius: 40%;
   border: 1.5px solid hsl(12, 78%, 55%);
